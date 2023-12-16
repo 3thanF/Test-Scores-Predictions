@@ -14,7 +14,7 @@ This Jupyter Notebook covers a range of topics in unsupervised learning, offerin
 ## How to Use this Notebook
 1. Ensure you have Python and Jupyter Notebook installed.
 2. Clone or download this repository to your local machine.
-3. Open the Jupyter Notebook (`Bank Credit Analisis.ipynb`) in your Jupyter environment to start the exercise.
+3. Open the Jupyter Notebook (`Algorithm.ipynb`) in your Jupyter environment to start the exercise.
 
 ## Technologies Used
 - Python
