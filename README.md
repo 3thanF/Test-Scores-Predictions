@@ -4,7 +4,7 @@
 Hello! I'm Ethan, and I welcome you to this interactive and insightful journey into supervised learning algorithms. This project aims to provide a hands-on experience with various AI concepts that are pivotal in today's technological landscape.
 
 ## Project Overview
-This Jupyter Notebook covers a range of topics in unsupervised learning, offering both theoretical insights and practical implementations. Key concepts include:
+This Jupyter Notebook covers a range of topics in supervised learning, offering both theoretical insights and practical implementations. Key concepts include:
 
 - Creation and utilization of Training and Test datasets.
 - Detailed exploration through Jupyter Notebook documentation.
