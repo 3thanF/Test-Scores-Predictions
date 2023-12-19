@@ -1,7 +1,7 @@
 # AI Project: Regression Model Algorithm
 
 ## Welcome to the Project
-Hello! I'm Ethan, and I welcome you to this interactive and insightful journey into unsupervised learning algorithms. This project aims to provide a hands-on experience with various AI concepts that are pivotal in today's technological landscape.
+Hello! I'm Ethan, and I welcome you to this interactive and insightful journey into supervised learning algorithms. This project aims to provide a hands-on experience with various AI concepts that are pivotal in today's technological landscape.
 
 ## Project Overview
 This Jupyter Notebook covers a range of topics in unsupervised learning, offering both theoretical insights and practical implementations. Key concepts include:
