@@ -34,5 +34,5 @@ If you have questions, suggestions, or need some assistance, please reach out to
 - **Email**: [3thanfaso03@gmail.com](mailto:3thanfaso03@gmail.com)
 
 ## Final Note
-I hope you find this project both educational and enjoyable. Dive in and explore the fascinating world of unsupervised learning!
+I hope you find this project both educational and enjoyable. Dive in and explore the fascinating world of supervised learning!
 
