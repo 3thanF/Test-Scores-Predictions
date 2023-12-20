@@ -1,4 +1,4 @@
-# AI Project: Regression Model Algorithm
+# AI Project: Linear Regression Model Algorithm
 
 ## Welcome to the Project
 Hello! I'm Ethan, and I welcome you to this interactive and insightful journey into supervised learning algorithms. This project aims to provide a hands-on experience with various AI concepts that are pivotal in today's technological landscape.
@@ -8,7 +8,7 @@ This Jupyter Notebook covers a range of topics in supervised learning, offering 
 
 - Creation and utilization of Training and Test datasets.
 - Detailed exploration through Jupyter Notebook documentation.
-- Implementation strategies for unsupervised learning algorithms.
+- Implementation strategies for supervised learning algorithms.
 - Utilization of Python for developing learning models and leveraging libraries like NumPy and Matplotlib.
 
 ## How to Use this Notebook
